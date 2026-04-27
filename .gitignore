@@ -4,3 +4,6 @@ claude/worktrees/
 
 # Claude Code local worktrees / scratch dirs
 claude/worktrees/
+
+.DS_Store
+.claude/worktrees/
